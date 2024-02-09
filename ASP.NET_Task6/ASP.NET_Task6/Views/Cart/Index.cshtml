@@ -1,0 +1,36 @@
+﻿@using ASP.NET_Task6.Models.Entities
+@model List<CartItem>
+
+<h2>Your Cart</h2>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    <form method="post" asp-action="PlaceOrder" asp-controller="Cart">
+        <button type="submit" class="btn btn-primary">Place Order</button>
+    </form>
+
+}
+

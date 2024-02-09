@@ -1,0 +1,57 @@
+﻿@using ASP.NET_Task6.Models.Entities
+@model List<Order>
+
+<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto; 
+        border: 1px solid black;
+        padding: 10px;
+    }
+
+    .grid-item {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .total-price {
+        grid-column: span 3; 
+        padding-top: 10px;
+    }
+
+    .action-buttons {
+        grid-column: span 3; 
+        padding-top: 10px;
+    }
+</style>
+
+<h2>All Orders</h2>
+
+@foreach (var order in Model)
+{
+    <div class="grid-container">
+        <div class="grid-item"><strong>Quantity</strong></div>
+        <div class="grid-item"><strong>Price</strong></div>
+        <div class="grid-item"><strong>Total</strong></div>
+        @foreach (var orderItem in order.OrderItems)
+        {
+            <div class="grid-item">@orderItem.Quantity</div>
+            <div class="grid-item">@orderItem.Price</div>
+            <div class="grid-item">@orderItem.Quantity * @orderItem.Price</div>
+        }
+        <div class="total-price">
+            <strong>Total Price: @order.OrderItems.Sum(item => item.Quantity * item.Price)</strong>
+        </div>
+        <div class="action-buttons">
+            <form asp-action="AcceptOrder" asp-controller="Home" asp-route-id="@order.Id" method="post">
+                <button type="submit">Accept</button>
+            </form>
+            <form asp-action="RejectOrder" asp-controller="Home" asp-route-id="@order.Id" method="post">
+                <button type="submit">Reject</button>
+            </form>
+        </div>
+    </div>
+}
+
+

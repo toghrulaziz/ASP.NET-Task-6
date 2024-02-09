@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASP.NET_Task6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASP.NET_Task6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\1a01df80-a43d-4c9e-9f4c-a9aa1048ec2a.jpg",
+      "PackagePath": "staticwebassets\\1a01df80-a43d-4c9e-9f4c-a9aa1048ec2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\1b23b76d-af30-4511-9016-a7a0b71f2d24.png",
+      "PackagePath": "staticwebassets\\1b23b76d-af30-4511-9016-a7a0b71f2d24.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\2870fdb2-08ec-46cf-8a6d-6c414485dcd8.jpg",
+      "PackagePath": "staticwebassets\\2870fdb2-08ec-46cf-8a6d-6c414485dcd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\4508e775-2b72-4d7e-9131-eeec659a561b.png",
+      "PackagePath": "staticwebassets\\4508e775-2b72-4d7e-9131-eeec659a561b.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\7b0a7bd9-c5e5-4274-b04b-4b3284e84e50.png",
+      "PackagePath": "staticwebassets\\7b0a7bd9-c5e5-4274-b04b-4b3284e84e50.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\8b424572-9e6a-414f-b215-3b41400311b6.png",
+      "PackagePath": "staticwebassets\\8b424572-9e6a-414f-b215-3b41400311b6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\a84057f9-cb77-4eb4-a3f8-0adb4c541d0f.png",
+      "PackagePath": "staticwebassets\\a84057f9-cb77-4eb4-a3f8-0adb4c541d0f.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\ab45552f-3f57-486e-baa9-0bf6fbc4cb02.png",
+      "PackagePath": "staticwebassets\\ab45552f-3f57-486e-baa9-0bf6fbc4cb02.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\b4d316bd-81fb-4b07-b6d1-c91e8b4f0807.jpg",
+      "PackagePath": "staticwebassets\\b4d316bd-81fb-4b07-b6d1-c91e8b4f0807.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\b7c61308-65c3-4dd9-8e0d-67eb294f46ba.jpg",
+      "PackagePath": "staticwebassets\\b7c61308-65c3-4dd9-8e0d-67eb294f46ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\b8b83133-33f0-4c53-b98a-4e98083d1c7f.png",
+      "PackagePath": "staticwebassets\\b8b83133-33f0-4c53-b98a-4e98083d1c7f.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\dc306a59-7973-429c-b0bc-e6a592ebd48b.jpg",
+      "PackagePath": "staticwebassets\\dc306a59-7973-429c-b0bc-e6a592ebd48b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\f08d7a70-58f1-44fe-8847-4345f964e449.jpg",
+      "PackagePath": "staticwebassets\\f08d7a70-58f1-44fe-8847-4345f964e449.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\ASP.NET Task 6\\ASP.NET_Task6\\ASP.NET_Task6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP.NET_Task6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASP.NET_Task6.props",
+      "PackagePath": "build\\ASP.NET_Task6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET_Task6.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET_Task6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET_Task6.props",
+      "PackagePath": "buildTransitive\\ASP.NET_Task6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
